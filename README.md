@@ -48,5 +48,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Para mais informações, entre em contato com [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Para mais informações, entre em contato com: harrisonmanoela@gmail.com
 
